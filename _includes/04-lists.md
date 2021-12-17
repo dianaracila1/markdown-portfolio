@@ -1,0 +1,4 @@
+- icecream
+- cats
+- dogs
+- the beach
